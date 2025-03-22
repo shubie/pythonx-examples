@@ -117,7 +117,7 @@ dependencies = [
 {result, _} =
   Pythonx.eval(
     """
-    pdf_path = "isdb.pdf"
+    pdf_path = "multiple.pdf"
     output_path = "extracted_paragraphs.json"
 
     # Extract content
@@ -140,3 +140,7 @@ dependencies = [
 
 IO.inspect("Result in elixir")
 IO.inspect(result)
+
+IO.inspect("Decoded Result in elixir")
+# IO.inspect(result)
+IO.inspect(Pythonx.decode(result))
