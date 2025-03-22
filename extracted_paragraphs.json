@@ -1,0 +1,134 @@
+{
+  "document": {
+    "path": "isdb.pdf",
+    "page": 0,
+    "paragraphs": [
+      {
+        "id": 1,
+        "text": "Subject: Announcement of the Upcoming General Meeting of the Islamic Development Bank",
+        "position": {
+          "x0": 72.03,
+          "x1": 459.49,
+          "top": 91.55,
+          "bottom": 119.55
+        },
+        "metadata": {
+          "width": 387.47,
+          "height": 28.0
+        }
+      },
+      {
+        "id": 2,
+        "text": "Dear Esteemed Members,",
+        "position": {
+          "x0": 72.03,
+          "x1": 215.73,
+          "top": 137.57,
+          "bottom": 149.57
+        },
+        "metadata": {
+          "width": 143.7,
+          "height": 12.0
+        }
+      },
+      {
+        "id": 3,
+        "text": "The Management Team of the Islamic Development Bank (IsDB) is pleased to announce the convening of the General Meeting",
+        "position": {
+          "x0": 72.03,
+          "x1": 478.36,
+          "top": 167.32,
+          "bottom": 195.32
+        },
+        "metadata": {
+          "width": 406.33,
+          "height": 28.0
+        }
+      },
+      {
+        "id": 4,
+        "text": "Purpose and Agenda: The meeting will address key matters critical to the Bank’s strategic direction, including but not limited to:",
+        "position": {
+          "x0": 72.03,
+          "x1": 477.84,
+          "top": 213.35,
+          "bottom": 257.35
+        },
+        "metadata": {
+          "width": 405.82,
+          "height": 44.0
+        }
+      },
+      {
+        "id": 5,
+        "text": "1. Review of the Bank’s activities and achievements for the fiscal year 2025. 2. Presentation and approval of the annual financial report. 3. Discussion of strategic initiatives for 2025 4. Election of [specific roles, if applicable]. 5. Any other business with the Chair’s approval.",
+        "position": {
+          "x0": 90.05,
+          "x1": 489.43,
+          "top": 275.09,
+          "bottom": 351.12
+        },
+        "metadata": {
+          "width": 399.38,
+          "height": 76.03
+        }
+      },
+      {
+        "id": 6,
+        "text": "A provisional agenda will be circulated closer to the meeting date. Members may propose additional agenda items by [Insert Deadline], submitted in writing to the Secretariat.",
+        "position": {
+          "x0": 72.03,
+          "x1": 499.51,
+          "top": 369.12,
+          "bottom": 413.14
+        },
+        "metadata": {
+          "width": 427.49,
+          "height": 44.02
+        }
+      },
+      {
+        "id": 7,
+        "text": "Attendance Confirmation: Kindly confirm your participation or that of your authorized representative by via email to shuaib@afegbua.com. For members unable to attend in person, virtual participation details will be provided upon request.",
+        "position": {
+          "x0": 72.03,
+          "x1": 497.54,
+          "top": 430.89,
+          "bottom": 490.92
+        },
+        "metadata": {
+          "width": 425.52,
+          "height": 60.03
+        }
+      },
+      {
+        "id": 8,
+        "text": "Required Documentation: Attendees must present valid identification. Authorized representatives should submit a letter of designation prior to the meeting.",
+        "position": {
+          "x0": 72.03,
+          "x1": 485.02,
+          "top": 508.92,
+          "bottom": 552.67
+        },
+        "metadata": {
+          "width": 412.99,
+          "height": 43.75
+        }
+      },
+      {
+        "id": 9,
+        "text": "We look forward to your esteemed contributions to advancing the Bank’s mission.",
+        "position": {
+          "x0": 72.03,
+          "x1": 504.64,
+          "top": 570.69,
+          "bottom": 582.69
+        },
+        "metadata": {
+          "width": 432.61,
+          "height": 12.0
+        }
+      }
+    ]
+  }
+}
